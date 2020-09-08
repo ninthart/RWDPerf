@@ -17,7 +17,7 @@
     "commander": "^2.3.0",
     "colors": "^0.6.2",
     "handlebars": "^4.7.6",
-    "st": "^0.5.2",
+    "st": ">=1.2.2",
     "routes-router": "^4.1.1"
   }
 }
